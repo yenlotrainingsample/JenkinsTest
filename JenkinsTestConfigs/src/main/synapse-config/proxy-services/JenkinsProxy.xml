@@ -3,7 +3,6 @@
     <target>
         <inSequence>
             <log level="full"/>
-            <log/>
             <respond/>
         </inSequence>
         <outSequence/>
